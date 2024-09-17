@@ -2,6 +2,7 @@
 
 ```bash
 Este repositorio contiene implementaciones de varias estructuras de datos en lenguaje C. Cada estructura está acompañada de ejemplos y descripciones de su uso. Es ideal para estudiantes o desarrolladores que quieran profundizar en el manejo de estructuras de datos utilizando C.
+```
 
 ## Estructuras de Datos Implementadas
 
