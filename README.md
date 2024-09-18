@@ -10,6 +10,28 @@ Este repositorio contiene implementaciones de varias estructuras de datos en len
 3. Listas enlazadas: Para almacenar elementos debido que cada nodo contiene un puntero al siguiente nodo.
 4. Algoritmo en complejidad cuadratica: Cuando el espacio requerido aumenta proporcionalmente al tamano de la entrada.
 
+## Tablas de la Base de Datos
+
+### Usuarios
+| Campo     | Tipo de Dato | Descripción           |
+| --------- | ------------ | --------------------- |
+| id        | Integer      | Identificador único   |
+| username  | String       | Nombre de usuario     |
+| password  | String       | Contraseña (hashed)   |
+| email     | String       | Correo electrónico    |
+
+### Tareas
+| Campo        | Tipo de Dato | Descripción               |
+| ------------ | ------------ | ------------------------- |
+| id           | Integer      | Identificador único       |
+| user_id      | Integer      | Referencia al ID del usuario |
+| title        | String       | Título de la tarea        |
+| description  | Text         | Descripción de la tarea   |
+| due_date     | DateTime     | Fecha límite             |
+| completed    | Boolean      | Estado de la tarea        |
+
+
+
 ## Estructuras de Datos
 
 1. **Listas Enlazadas (Linked List)**
