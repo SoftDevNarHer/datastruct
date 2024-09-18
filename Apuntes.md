@@ -1,3 +1,4 @@
+#### Israel Narvaez | 2024 (c)
 ## Complejidad de un Algoritmo
 - Es cuando ejecutamos un programa
 - Es la medida de lo que utiliza un algoritmo
