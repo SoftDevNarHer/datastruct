@@ -13,24 +13,12 @@ Este repositorio contiene implementaciones de varias estructuras de datos en len
 ## Tablas de la Base de Datos
 
 ### Usuarios
-| Campo     | Tipo de Dato | Descripción           |
-| --------- | ------------ | --------------------- |
-| id        | Integer      | Identificador único   |
+| Algoritmo     | Descripción    |
+| --------- | ------------------ |
+| Ordenamiento por inserción | Necesita una cantidad constante de memoria |
 | username  | String       | Nombre de usuario     |
 | password  | String       | Contraseña (hashed)   |
 | email     | String       | Correo electrónico    |
-
-### Tareas
-| Campo        | Tipo de Dato | Descripción               |
-| ------------ | ------------ | ------------------------- |
-| id           | Integer      | Identificador único       |
-| user_id      | Integer      | Referencia al ID del usuario |
-| title        | String       | Título de la tarea        |
-| description  | Text         | Descripción de la tarea   |
-| due_date     | DateTime     | Fecha límite             |
-| completed    | Boolean      | Estado de la tarea        |
-
-
 
 ## Estructuras de Datos
 
