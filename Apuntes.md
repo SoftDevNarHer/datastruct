@@ -3,12 +3,13 @@
 - Es la medida de lo que utiliza un algoritmo
 
 ### Algunos algoritmos
-| Algoritmo                  | Descripción    |
-| -------------------------- | ------------------ |
-| Ordenamiento por inserción | Necesita una cantidad constante de memoria. |
-| Matriz Dispersa            | La mayoría de los elementos es cero, el cual solo almacena los elementos 10 nulos.   |
-| Listas enlazadas | Para almacenar elementos debido que cada nodo contiene un puntero al siguiente nodo. |
-| Complejidad Cuadrática | Cuando el espacio requerido aumenta proporcionalmente al tamano de la entrada. |
+
+| Algoritmo            | Descripción                                                                              | 
+|----------------------|------------------------------------------------------------------------------------------|
+| Ord. por insercion   | Necesita una cantidad constante de memoria.                                              | 
+| Matriz dispersa      | La mayoría de los elementos es cero, el cual solo almacena los elementos 10 nulos.       | 
+| Listas enlazadas     | Para almacenar elementos debido que cada nodo contiene un puntero al siguiente nodo.     | 
+| Comp. Cuadratica     | Cuando el espacio requerido aumenta proporcionalmente al tamano de la entrada.           |
 
 
 # Complejidades Algorítmicas Comunes
