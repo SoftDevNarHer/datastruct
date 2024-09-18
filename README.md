@@ -2,23 +2,17 @@
 
 Este repositorio contiene implementaciones de varias estructuras de datos en lenguaje C. Cada estructura está acompañada de ejemplos y descripciones de su uso. Es ideal para estudiantes o desarrolladores que quieran profundizar en el manejo de estructuras de datos utilizando C.
 
-# Complejidad de un Algoritmo
+## Complejidad de un Algoritmo
 - Es cuando ejecutamos un programa
 - Es la medida de lo que utiliza un algoritmo
-1. Algoritmo de ordenamiento por inserción: Necesita una cantidad constante de memoria.
-2. Matriz Dispersa: La mayoría de los elementos es cero, el cual solo almacena los elementos 10 nulos.
-3. Listas enlazadas: Para almacenar elementos debido que cada nodo contiene un puntero al siguiente nodo.
-4. Algoritmo en complejidad cuadratica: Cuando el espacio requerido aumenta proporcionalmente al tamano de la entrada.
 
-## Tablas de la Base de Datos
-
-### Usuarios
+### Algunos algoritmos
 | Algoritmo     | Descripción    |
 | --------- | ------------------ |
-| Ordenamiento por inserción | Necesita una cantidad constante de memoria |
-| username  | String       | Nombre de usuario     |
-| password  | String       | Contraseña (hashed)   |
-| email     | String       | Correo electrónico    |
+| Ordenamiento por inserción | Necesita una cantidad constante de memoria. |
+| Matriz Dispersa | La mayoría de los elementos es cero, el cual solo almacena los elementos 10 nulos.   |
+| Listas enlazadas | Para almacenar elementos debido que cada nodo contiene un puntero al siguiente nodo. |
+| Complejidad Cuadrática | Cuando el espacio requerido aumenta proporcionalmente al tamano de la entrada. |
 
 ## Estructuras de Datos
 
