@@ -1,6 +1,6 @@
 '''
 
-Realizar un programa en c utilzando funciones y punteros en donde le 
+Realizar un programa utilizando funciones en donde le 
 permita al usuario realizar las operaciones sobre un arreglo de 
 enteros: insertar, eliminar, agregar, renombrar. Se utiliza un menu 
 para elegir la operacion que el usuario desea utilizar
